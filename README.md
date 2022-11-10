@@ -22,9 +22,8 @@ Para pessoas de alta renda que buscam produtos de qualidade seguindo o preço al
 ## Autores
 
 - Isabelly de Oliveira de Melo. [@isahlbbh](https://github.com/isahlbbh)
-- Guilherme Alves Veloso.
-- Hanani de Oliveira.
-- Lucas Rebelo.
+- Julia Ogino.
+- Matheus Barreto.
 - Yago Sampaio.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)]([https://github.com/marcus6n/projeto-2-sistema-de-gerenciamento-de-grupos/blob/main/licence](https://github.com/isahlbbh/cartinhanatal/blob/main/licence))
