@@ -19,11 +19,17 @@ Para pessoas de alta renda que buscam produtos de qualidade seguindo o preço al
 - Excluir conta do usuário.
 - Checar pagamento confirmar pedidos.
 
+## FIGMA
+
+[Interface da Loja](https://www.figma.com/file/hZw8tTF9SIO4hRFHQpz1c7/LOJA-DE-M%C3%93VEIS?node-id=7%3A19&t=ZQ6IWD1LRJ4rbX1s-1)
+
 ## Autores
 
 - Isabelly de Oliveira de Melo. [@isahlbbh](https://github.com/isahlbbh)
-- Julia Ogino.
 - Matheus Barreto.
 - Yago Sampaio.
+- Gabriel ALves.
+- Lucas Rebelo.
+- Hanani de Oliveira
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)]([https://github.com/marcus6n/projeto-2-sistema-de-gerenciamento-de-grupos/blob/main/licence](https://github.com/isahlbbh/cartinhanatal/blob/main/licence))
