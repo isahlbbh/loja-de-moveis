@@ -1,7 +1,7 @@
 ![Badge Completo](http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge)
 # PROJETO - LOJA DE MÓVEIS
 
-Para pessoas de alta renda que buscam produtos de qualidade seguindo o preço alto os produtos da loja de moveis são sofás, tapetes, lustres, mesa, armário e poltronas que possibilita o usuário comprar sem sair de casa diferente de Lojas que so tem disponível a venda na loja física nosso produto alta qualidade seguinto o alto preço.
+O site é destinado para venda de móveis e atendimentos  a domicilio, na qual a solicitação pode ser feita diretamente no site.
 
 ## Stack utilizada
 
