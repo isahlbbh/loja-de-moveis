@@ -21,7 +21,7 @@ O site é destinado para venda de móveis e atendimentos  a domicilio, na qual a
 
 ## FIGMA
 
-[Interface da Loja](https://www.figma.com/file/hZw8tTF9SIO4hRFHQpz1c7/LOJA-DE-M%C3%93VEIS?node-id=7%3A19&t=ZQ6IWD1LRJ4rbX1s-1)
+[Interface da Loja](https://www.figma.com/proto/XmUZbmzzUnkGc75ShLk0LE/loja-de-moveis?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A27&show-proto-sidebar=1)
 
 ## Autores
 
