@@ -28,8 +28,9 @@ O site é destinado para venda de móveis e atendimentos  a domicilio, na qual a
 - Isabelly de Oliveira de Melo. [@isahlbbh](https://github.com/isahlbbh)
 - Matheus Barreto.
 - Yago Sampaio.
-- Gabriel ALves.
+- Gabriel Alves.
 - Lucas Rebelo.
-- Hanani de Oliveira
+- Hanani de Oliveira.
+- Julia Ogino Andrade.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)]([https://github.com/marcus6n/projeto-2-sistema-de-gerenciamento-de-grupos/blob/main/licence](https://github.com/isahlbbh/cartinhanatal/blob/main/licence))
